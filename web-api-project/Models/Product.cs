@@ -27,7 +27,5 @@ namespace web_api_project.Models
         public int UnitInStock { get; set; }
 
         public string? Description { get; set; }
-
-
     }
 }
